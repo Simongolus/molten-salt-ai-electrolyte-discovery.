@@ -1,4 +1,0 @@
-── data/                  # Raw and processed datasets (CSVs, extracted PDFs)
-│   ├── raw/               # Unprocessed downloads (e.g., NIST CSVs, MSTDB exports)
-│   ├── processed/         # Cleaned/ML-ready versions (e.g., Pandas DataFrames as Parquet)
-│   └── metadata/          # Sources, units, extraction scripts
