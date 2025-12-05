@@ -1,1 +1,7 @@
-
+torch
+rdkit
+ase
+pymatgen
+pandas
+numpy
+matplotlib
